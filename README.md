@@ -10,4 +10,4 @@ Jag har byggt sidan med:
 4. Fetch kan GET, PUT, POST och DELETE därifrån.
 5. chart på antal ingrediens som används
 
-DEMO:https://dahunger.netlify.app/
+DEMO: https://dahunger.netlify.app/
