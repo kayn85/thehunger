@@ -1,0 +1,11 @@
+# The Hunger
+
+"Api app som visa recept basera på vad man har hemma."
+
+Jag har byggt sidan med:
+
+1. HTML & CSS
+2. Javascript
+3. Spoonacular API.
+4. Fetch kan GET, PUT, POST och DELETE därifrån.
+5. chart på antal ingrediens som används

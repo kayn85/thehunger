@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="sv">
+
+	<head>
+		<meta charset="utf-8">
+		<meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+		<title>The Hunger APP</title>
+
+		<link href="styles.css" rel="stylesheet">
+
+	</head>
+
+	<body id="start-page">
+
+		<header>
+			<h1>The Hunger APP</h1>
+			<nav>
+				<a href="index.html">Search Recipes</a>
+				<a href="cookbook.html">My Cookbook</a>
+				<a href="stats.html">Statistics</a>
+			</nav>
+		</header>
+
+		<main class="wrapper">
+
+			<section id="search">
+				<h2>Search recipes based on your ingredients</h2>
+				<form id="ingredient-form">
+					<label for="ingredients">Ingredients (separate with commas):</label>
+					<input type="text" id="ingredients"
+						placeholder="for example eggs, milk, flour" required>
+					<button type="submit">Search Recipes</button>
+				</form>
+
+			</section>
+
+			<section>
+				<div id="recipe-result">
+				</div>
+			</section>
+
+		</main>
+		<footer>
+			<p>&copy; 2024 The Hunger APP</p>
+		</footer>
+
+		<script src="script.js" defer></script>
+	</body>
+
+</html>
