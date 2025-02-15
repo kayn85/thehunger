@@ -1,6 +1,6 @@
 # The Hunger
 
-"Api app som visa recept basera på vad man har hemma."
+"API-app som visar recept baserat på vad man har hemma"
 
 Jag har byggt sidan med:
 
