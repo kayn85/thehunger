@@ -9,5 +9,6 @@ Jag har byggt sidan med:
 3. Spoonacular API.
 4. Fetch kan GET, PUT, POST och DELETE därifrån.
 5. chart på antal ingrediens som används
+6. DEMO: https://dahunger.netlify.app/
+<img src="https://github.com/kayn85/kayn85/blob/main/hunger-screenshot.png">
 
-DEMO: https://dahunger.netlify.app/
